@@ -1,6 +1,3 @@
-# neko-launcher-updates
-Лаунчер для проектов майнкрафт
+# sch1zk-neko-launcher-updates
 
-React + Vite + Tauri ❤️
-
-![image](https://github.com/FluffyCuteOwO/neko-launcher-updates/assets/17436886/28edd4d5-ec74-45d5-a839-ac371c60d00d)
+![image](https://github.com/michitta/sch1zk-neko-launcher-updates/assets/17436886/b95c2888-73d1-4acf-84f1-265d83f72d05)
