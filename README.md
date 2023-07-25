@@ -1,3 +1,3 @@
 # sch1zk-neko-launcher-updates
 
-![image](https://github.com/michitta/sch1zk-neko-launcher-updates/assets/17436886/b95c2888-73d1-4acf-84f1-265d83f72d05)
+![image](https://github.com/michitta/sch1zk-neko-launcher-updates/assets/17436886/6dcc9f22-5672-4b9f-94aa-e05ef70e5b4d)
